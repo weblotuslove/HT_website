@@ -64,7 +64,7 @@ p {
 	margin-bottom:30px;
 }
 a {
-	color: #0c0e27;
+	color: #C0F9CB;
 	text-decoration: none;
 	-webkit-transition: all 0.5s ease;
 	transition: all .5s ease;
@@ -3716,7 +3716,6 @@ header a:hover,
 	margin: 0;
 }
 .team_img {
-	box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
 	overflow: hidden;
 	position: relative;
 	margin: 0 auto;
@@ -3724,7 +3723,7 @@ header a:hover,
 	border-radius: 12px;
 }
 .team_img img {
-	border-radius: 16px;
+	border-radius: 30px;
 }
 .team_img::before {
 	background-color: #5957cd;
