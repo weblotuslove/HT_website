@@ -6491,3 +6491,10 @@ button.btn-white:hover {
 .list-custom-css li h4 {
 	font-size: 18px;
 }
+.img-bg {
+	background: url("../images/HealingTigers_main_hero_01.png") no-repeat center center fixed; 
+  	background-size: cover;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+}
