@@ -44,7 +44,7 @@ body {
     color: #7a7a7a;
     font-family: 'M PLUS Rounded 1c', sans-serif;
     font-size: 16px;
-    font-weight: 400;
+    font-weight: 500;
     line-height: 30px;
 }
 html,
@@ -1355,7 +1355,7 @@ header a:hover,
 	top: 0;
 }
 .transparent_effect {
-	height: 100%;
+	width: 100%;
 	opacity: 0.4;
 	position: absolute;
 	top: 0;
@@ -6492,7 +6492,7 @@ button.btn-white:hover {
 	font-size: 18px;
 }
 .img-bg {
-	background: url("../images/HealingTigers_main_hero_01.png") no-repeat center center fixed; 
+	background: url("../images/HealingTigers_main_hero_02.png") no-repeat center center fixed; 
   	background-size: cover;
   	-webkit-background-size: cover;
   	-moz-background-size: cover;
