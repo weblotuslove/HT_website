@@ -6492,9 +6492,10 @@ button.btn-white:hover {
 	font-size: 18px;
 }
 .img-bg {
-	background: url("../images/HealingTigers_main_hero_02.png") no-repeat center center fixed; 
+	background: url("../images/HealingTigers_main_hero_01.png") no-repeat center center fixed !important; 
   	background-size: cover;
   	-webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
+  	background-size: 100%;
 }
