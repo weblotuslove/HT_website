@@ -3704,7 +3704,7 @@ header a:hover,
 09. TEAM SECTION
 *===================================*/
 .team_info {
-	padding-top: 15px;
+	padding-top: 4px;
 }
 .team_info h4 a {
 	color: #444444;
@@ -6492,9 +6492,12 @@ button.btn-white:hover {
 	font-size: 18px;
 }
 .img-bg {
-	background: url("../images/HealingTigers_main_hero_01.png") no-repeat center center fixed; 
+	background: url("../images/HealingTigers_main_hero_01.png") no-repeat 0 15%; 
   	background-size: cover;
   	-webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
+}
+#team .team_box {
+	margin-bottom: 25px;
 }
