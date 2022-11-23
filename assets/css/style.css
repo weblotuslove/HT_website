@@ -3705,7 +3705,7 @@ header a:hover,
 09. TEAM SECTION
 *===================================*/
 .team_info {
-	padding-top: 4px;
+	padding-top: 16px;
 }
 .team_info h4 a {
 	color: #444444;
@@ -3758,7 +3758,7 @@ header a:hover,
 }*/
 .team_img img,
 .team_image img {
-	border: 10px solid #ffffff;
+	/*border: 10px solid #ffffff;*/
 	width: 100%;
 }
 .team_img.rounded_img, 
@@ -6507,7 +6507,7 @@ button.btn-white:hover {
   	-o-background-size: cover;
 }
 #team .team_box {
-	margin-bottom: 25px;
+	margin-bottom: 40px;
 }
 .faq_content2, .table {
 	font-family: 'Inter', sans-serif;
@@ -6516,7 +6516,7 @@ button.btn-white:hover {
 	color: #91C8F9 !important;
 }
 .custom-border {
-	border: 1px solid #ffffff;
+	border: 1px solid #F8CB64;
 	border-radius: 5px;
 	margin: 20px;
 	padding: 20px;
@@ -6530,4 +6530,10 @@ button.btn-white:hover {
 .sm-image {
 	width: 60px;
 	margin-bottom: 16px;
+}
+.team_info h5, .team_info p {
+	color: #ffffff;
+}
+.team_img img {
+	width: 80%;
 }

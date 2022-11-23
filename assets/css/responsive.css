@@ -903,7 +903,7 @@ section.small_pb {
 	margin-top: 10px;
 }
 .team_img img {
-	border: 5px solid #ffffff;
+	/*border: 5px solid #ffffff;*/
 }
 .team_img::before {
 	margin: 5px;
