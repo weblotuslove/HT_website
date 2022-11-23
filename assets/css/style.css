@@ -3724,7 +3724,7 @@ header a:hover,
 	border-radius: 12px;
 }
 .team_img img {
-	border-radius: 30px;
+	border-radius: 20px;
 }
 .team_img::before {
 	background-color: #5957cd;
@@ -6531,8 +6531,11 @@ button.btn-white:hover {
 	width: 60px;
 	margin-bottom: 16px;
 }
-.team_info h5, .team_info p {
+.team_info h5 {
 	color: #ffffff;
+}
+.team_info p {
+	color: #b5b5b5;
 }
 .team_img img {
 	width: 80%;
