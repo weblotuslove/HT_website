@@ -6540,3 +6540,10 @@ button.btn-white:hover {
 .team_img img {
 	width: 80%;
 }
+.healingMap {
+	margin-top: 24px;
+	color: #111;
+}
+.healingMapP {
+	font-weight: bold;
+}
