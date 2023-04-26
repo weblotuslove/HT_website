@@ -6500,7 +6500,7 @@ button.btn-white:hover {
   	-o-background-size: cover;
 }
 .img-bg-rm {
-	background: url("../images/HealingTigers_rm_hero_bg.png") no-repeat 0 15%; 
+	background: url("../images/HealingTigers_rm_hero_bg.png") no-repeat center; 
   	background-size: cover;
   	-webkit-background-size: cover;
   	-moz-background-size: cover;
